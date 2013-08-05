@@ -1,6 +1,7 @@
 <?php
-  class myClass  {
+  class myClass() {
 
+  'What is this going to do?';
   }
 
   $obj = new myClass;
