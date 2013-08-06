@@ -1,4 +1,8 @@
 <?php
+  $myarray = array('steve', 'joe', 'stan');
+   print_r($myarray);
 
-   print_r($_REQUEST)
+  $associative_array = array('name1' => 'joe', 'name2'=>'stan');
+
+   print_r($associative_array);
 ?>
