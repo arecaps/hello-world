@@ -1,12 +1,10 @@
 <?php
   class myClass {
-    function __construct()
-      $surprise = 'What is this going to do';
-    
-  echo "$surprise";
-  }
-
+     public $surprise = 'What is this going to do';
+  }  
+  
   $obj = new myClass;
 
-  var_dump($obj);
+  echo ("$surprise");
+  //var_dump($obj);
 ?>
