@@ -5,6 +5,6 @@
   
   $obj = new myClass;
 
-  echo ("$surprise");
+  return "$surprise";
   //var_dump($obj);
 ?>
