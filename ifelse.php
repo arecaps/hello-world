@@ -1,6 +1,9 @@
 <?php
-$a = 6;
-$b = 9; 
+$a = rand();
+$b = rand();
+
+  echo "$a" . "<br>"; 
+  echo "$b" . "<br>"; 
 
 if ($a>$b) {
       echo "a is bigger than b";
