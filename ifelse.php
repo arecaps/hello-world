@@ -1,6 +1,6 @@
 <?php
-$a = rand();
-$b = rand();
+$a = rand(10,99);
+$b = rand(10,99);
 
   echo "$a" . "<br>"; 
   echo "$b" . "<br>"; 
