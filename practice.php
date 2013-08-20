@@ -1,10 +1,11 @@
 <?php
-  class myClass() {
+  //class myClass() {
+    //function __construct()
 
-  'What is this going to do?';
-  }
+  echo 'What is this going to do?';
+  //}
 
-  $obj = new myClass;
+  //$obj = new myClass;
 
-  var_dump($obj);
+  //var_dump($obj);
 ?>
